@@ -1,6 +1,6 @@
 package Repeticao;
 
-public class Exer_022 {
+public class Exer_023 {
 
 	public static void main(String[] args) {
 

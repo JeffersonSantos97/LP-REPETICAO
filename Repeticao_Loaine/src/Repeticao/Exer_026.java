@@ -1,10 +1,11 @@
 package Repeticao;
 
-public class Exer_022 {
+public class Exer_026 {
 
 	public static void main(String[] args) {
-
-		// questão confusa
+		
+		
+		// Exercicio confuso
 
 	}
 
