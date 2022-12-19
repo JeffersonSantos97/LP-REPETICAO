@@ -13,6 +13,12 @@ public class Exer_001 {
 		do {
 			System.out.println("Entre com um valor entre 0 e 10: ");
 			num = sc.nextInt();
+
+			if(num < 0 || num > 10 ) {
+
+				System.out.println("Numero errado !!!" );
+				System.out.println("Entre novamente !! ");
+			}
 		} while (num < 0 || num > 10);
 
 		System.out.println("PROGRAMA FINALIZADO");
